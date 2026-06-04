@@ -1,0 +1,6 @@
+{
+  "name": "DailyFlow",
+  "description": "An elegant, modern personal offline-first planner for tracking tasks, priorities, and daily schedules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
